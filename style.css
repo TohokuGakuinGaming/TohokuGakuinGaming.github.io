@@ -1,0 +1,17 @@
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgb(188, 255, 255);
+    padding: 20px;
+}
+
+a.menuBtn {
+    background: #2cb6b6;
+    padding: 15px;
+}
+
+;
