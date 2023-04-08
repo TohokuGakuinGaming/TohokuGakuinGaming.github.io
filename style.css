@@ -5,13 +5,16 @@ body {
 }
 
 header {
-    background: rgb(188, 255, 255);
-    padding: 20px;
+    background: rgba(0, 0, 0, .1);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
 }
 
-a.menuBtn {
-    background: #2cb6b6;
-    padding: 15px;
+.logo {
+    border: 1px solid black;
 }
 
-;
+.menuBtn {
+    background: var(--)
+}
