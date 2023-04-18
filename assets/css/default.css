@@ -1,0 +1,37 @@
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgb(196, 248, 255);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.menuBtn {
+    background: rgba(0, 0, 0, .2);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    border-left: 2px solid #00000040;
+    font-size: 20px
+}
+
+div#headerLinks {
+    height: 80px;
+    display: flex;
+    right: 0;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+}
